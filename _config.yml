@@ -1,6 +1,6 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: aureliamandani.com
+description: CSIS PhD Candidate, Educator, IT Engineer, and Librarian specializing in Research in Privacy and UX
 baseurl: "/will-jekyll-template" # the subpath of your site, e.g. /blog
 url: "https://aureliamandani.com" # the base hostname & protocol for your site e.g. 
 
